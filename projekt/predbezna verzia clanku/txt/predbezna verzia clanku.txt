@@ -1,0 +1,34 @@
+predbezna verzia clanku
+	abstrakt
+		cim sa zaoberam	
+	uvod
+		preco
+		struktura jadra
+		aky je stav PO
+		vyznamny problem
+	jadro
+		riesenie
+	zaver
+		k comu sme dosli
+		o com bol clanok
+		ponaucenie
+		namety do dalsej prace
+odovzdat:
+	4strany
+	7 zdrojov
+	kompilovat: 	.pdf
+	zdroje:		.bib
+	kod:		.tex
+hodnotenie:
+5b - neodbocil od temy
+5b - organizacia textu: struktura dava zmysel <jasna a prehladna>
+5b - stylizacia: gramaticke chyby / zoznamy
+5b - zdroje: 7ks korektne referencovane <na urovni viet/paragrafov><zdroj musi sediet>
+
+
+JIRA:
+Q1 - cim a preco
+Q2 - aky je stav PO
+Q3 - Vyznamny problem
+Q4 - riesenie
+Q5 - poucenie

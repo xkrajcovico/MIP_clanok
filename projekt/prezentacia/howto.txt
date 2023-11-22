@@ -1,0 +1,12 @@
+20b
+10b obsah && forma prez
+10b prednes
+-----------
+tabulka/graf 2b
+diagram 2b
+struktura + obsah 6b //title/obsah/s1/s2/.../sgraf/sdiagram/zhrnutie/zdroje
++zdroj
+REFERENCOVAT
+---
+prednes 5min - dodrzat cas
+plynulost prednesu

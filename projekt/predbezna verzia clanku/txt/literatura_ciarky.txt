@@ -1,0 +1,43 @@
+% ....názov súboru je: literatura.bib
+% zdroj na webe
+@misc{PLP-Framework,
+	author = "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever",
+	title = "Learning Transferable Visual Models From Natural Language Supervision",
+	howpublished = "\url{https://arxiv.org/pdf/2103.00020v1.pdf}",
+}
+
+@misc{PLP-Framework,
+	author = "Alec Radford, Ilya Sutskever, Jong Wook Kim, Gretchen Krueger, Sandhini Agarwal",
+	title = "CLIP: Connecting text and images",
+	howpublished = "\url{https://openai.com/research/clip/}",
+}
+
+@misc{PLP-Framework,
+	author = "Chenxi Liu, Liang-Chieh Chen, Florian Schroff, Hartwig Adam, Wei Hua, Alan Yuille, Li Fei-Fei",
+	title = "Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation",
+	howpublished = "\url{https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Auto-DeepLab_Hierarchical_Neural_Architecture_Search_for_Semantic_Image_Segmentation_CVPR_2019_paper.pdf}",
+}
+
+@misc{PLP-Framework,
+	author = "Shih-Fu Chang, Wei-Ying Ma, and Arnold Smeulders,   Columbia University, New York, USA;Microsoft Research Asia, Beijing, China; University of Amsterdam, Netherlands ",
+	title = "RECENT ADVANCES AND CHALLENGES OF SEMANTIC IMAGE/VIDEO SEARCH",
+	howpublished = "\url{https://www.ee.columbia.edu/ln/dvmm/publications/07/chang-smeulder-survey.pdf}",
+}
+
+@misc{PLP-Framework,
+	author = "Shabaz Basheer Patel, Anand Sampat; Department of Electrical Engineering Stanford University
+",
+	title = "Semantic image search using queries",
+	howpublished = "\url{http://www.sei.cmu.edu/productlines/frame_report/}",
+}
+
+%@misc{PLP-Framework,
+%	author = "Software Engineering Institute, Carnegie Mellon University",
+%	title = "A Framework for Software Product Line Practice---Version 5.0",
+%	howpublished = "\url{http://www.sei.cmu.edu/productlines/frame_report/}",
+%}
+%@misc{PLP-Framework,
+%	author = "Software Engineering Institute, Carnegie Mellon University",
+%	title = "A Framework for Software Product Line Practice---Version 5.0",
+%	howpublished = "\url{http://www.sei.cmu.edu/productlines/frame_report/}",
+%}

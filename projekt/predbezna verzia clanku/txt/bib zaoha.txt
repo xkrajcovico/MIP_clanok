@@ -1,0 +1,41 @@
+@misc{Radford2021,
+	author = "Alec Radford and Jong Wook Kim and Chris Hallacy and Aditya Ramesh and Gabriel Goh and Sandhini Agarwal and Girish Sastry and Amanda Askell and Pamela Mishkin and Jack Clark and Gretchen Krueger and Ilya Sutskever",
+	title = "Learning Transferable Visual Models From Natural Language Supervision",
+	howpublished = "\url{https://arxiv.org/pdf/2103.00020v1.pdf}",
+}
+
+@misc{CLIP,
+	author = "Alec Radford and Ilya Sutskever and Jong Wook Kim and Gretchen Krueger and Sandhini Agarwal",
+	title = "CLIP: Connecting Text and Images",
+	howpublished = "\url{https://openai.com/research/clip/}",
+}
+
+@misc{Auto-DeepLab,
+	author = "Chenxi Liu and Liang-Chieh Chen and Florian Schroff and Hartwig Adam and Wei Hua and Alan Yuille and Li Fei-Fei",
+	title = "Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation",
+	howpublished = "\url{https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Auto-DeepLab_Hierarchical_Neural_Architecture_Search_for_Semantic_Image_Segmentation_CVPR_2019_paper.pdf}",
+}
+
+@misc{Chang2007,
+	author = "Shih-Fu Chang and Wei-Ying Ma and Arnold Smeulders",
+	title = "Recent Advances and Challenges of Semantic Image/Video Search",
+	howpublished = "\url{https://www.ee.columbia.edu/ln/dvmm/publications/07/chang-smeulder-survey.pdf}",
+}
+
+@misc{Patel2000,
+	author = "Shabaz Basheer Patel and Anand Sampat",
+	title = "Semantic Image Search Using Queries",
+	howpublished = "\url{http://www.sei.cmu.edu/productlines/frame_report/}",
+}
+
+@misc{Babenko2014,
+	author = "Artem Babenko and Anton Slesarev and Alexandr Chigorin and Victor Lempitsky",
+	title = "Neural Codes for Image Retrieval",
+	howpublished = "\url{https://arxiv.org/pdf/1404.1777.pdf}",
+}
+
+@misc{Liu2006,
+	author = "Ying Liu and Dengsheng Zhang and Guojun Lu and Wei-Ying Ma",
+	title = "A Survey of Content-Based Image Retrieval With High-Level Semantics",
+	howpublished = "\url{https://www.sciencedirect.com/science/article/abs/pii/S0031320306002184}",
+} 

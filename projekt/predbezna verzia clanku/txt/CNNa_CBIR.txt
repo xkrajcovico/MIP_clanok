@@ -1,0 +1,12 @@
+Pri image to image search používame viaceré štandardné metódy, tu sú niektoré z nich:
+\begin{enumerate}
+%\item CNNs
+\item CBIR
+\item Reverse Image Search
+\end{enumerate}
+
+%tu bud[ nasledovať tri sekcie z listu nad tymto
+%\section{CNNs} \label{06}\label{06}
+%06
+\section{CBIR} \label{07}\label{07}
+07

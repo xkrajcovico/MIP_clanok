@@ -1,0 +1,13 @@
+This work provides a concise overview of three pivotal areas in computer vision: reverse image search, image-to-image search, and text-to-image search.
+Reverse image search, driven by deep learning, enables content-based image retrieval.
+Image-to-image search allows querying with images, revolutionizing fields like fashion and design.
+Text-to-image search, bridging language and visuals, benefits from multimodal fusion techniques.
+Exploring their convergence reveals synergistic possibilities in recommendation systems.
+This concise study highlights recent advancements, challenges, and the potential for cross-modal innovations, emphasizing the relevance of these domains in the digital age.
+
+
+Tento článok poskytuje stručný opis fungovania, využita a možností spetného vyhľadávania obrázkov (eng.: reverse image search, alebo image-to-image-search) a vyhľadávania obrázkov pomocou textu(eng.: text-to-image search).
+Nakoľko ľudia prirodzene vyjadrujú svoje myšlienky slovami, je pre nás pomerne ťažké komunikovať pomocou obrázkov, obzvlášť ich vyhľadávanie je občas pomerne neefektívne.
+Komunikácia sa však v posledných rokoch veľmi zmenila nástupom moderných technologicky vyspelých komunikačných kanálov(eng.: masmedia).
+Vyjadrovanie myšlienok graficky sa teda zdá byť na dosah ruky, problémom je však vyhľadanie daných grafík v databázach a na internete.
+Tento článok rozoberá nedávny pokrok, ťažkosti a nové nápady, ktoré spájajú rôzne typy informácií, predovšekým vyzuálne a modálne, a ukazuje, aké dôležité sú tieto oblasti v dnešnej digitálnej dobe.

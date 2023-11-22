@@ -1,0 +1,34 @@
+% Inserted image here
+\begin{wrapfigure}{r}{0.5\textwidth}
+  \centering
+  \includegraphics[width=0.48\textwidth]{STUFIITlogo.png}
+  \caption{logo FIIT}
+\end{wrapfigure}
+
+
+\begin{enumerate}
+\item jedna vec
+\item druhá vec
+	\begin{enumerate}
+	\item x
+	\item y
+	\end{enumerate}
+\end{enumerate}
+
+
+\section{Matrix}
+I added Matrix:
+\[
+\begin{bmatrix}
+  1 & 2 & 3 \\
+  1 & 4 & 5 \\
+  8 & 0 & 7 \\
+\end{bmatrix}
+\]
+Z obr.~\ref{f:rozhod} je všetko jasné. 
+\paragraph{Veľmi dôležitá poznámka.}
+
+%\emph{zdôrazniť kurzívou}
+%~\cite{}
+%~\cite{Czarnecki:Staged, Czarnecki:Progress}
+%~\ref{ina:nejake}
